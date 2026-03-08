@@ -15,7 +15,7 @@
 *.pem
 npm-debug.log*
 
-# env files (IMPORTANT: DON'T COMMIT API KEYS)
+# env files (NEVER DELETE THESE LINES - SECURITY PROTECTION)
 .env*
 .env.local
 .env.development.local
